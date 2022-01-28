@@ -4,6 +4,14 @@ import com.formdev.flatlaf.intellijthemes.materialthemeuilite.FlatMaterialDeepOc
 
 import javax.swing.*;
 
+/**
+ * @author: Omar-Njie
+ * @date: 1/28/2022
+ *
+ * This is the main class of the application.
+ * It is responsible for initializing the GUI and starting the application.
+ */
+
 public class Main {
 
     public static void main(String[] args) {
